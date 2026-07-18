@@ -1,0 +1,33 @@
+{
+  "name": "future-workspace-research",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "13.5.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "framer-motion": "^10.12.17",
+    "gsap": "^3.12.0",
+    "three": "^0.161.0",
+    "chart.js": "^4.4.0",
+    "react-chartjs-2": "^5.2.0",
+    "gray-matter": "^4.0.3",
+    "next-mdx-remote": "^4.3.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.2",
+    "tailwindcss": "^4.5.0",
+    "postcss": "^8.4.30",
+    "autoprefixer": "^10.4.14",
+    "@types/node": "20.4.2",
+    "@types/react": "18.2.21",
+    "eslint": "8.40.0",
+    "eslint-config-next": "13.5.0"
+  }
+}
